@@ -72,7 +72,10 @@ export default function Home() {
           1,000,000,000 <br /> SUPPLY
         </p>
       </div>
-    </div>
+      
+    </div><h2 class="mt-16 text-5xl  tracking-tighter leading-none text-center text-white max-md:mt-10">
+  CA :<p className="pt-6 font-light text-zinc-200 text-base">TBA</p> 
+    </h2>
   
     <footer class="self-end mt-10 mr-11 text-base font-light text-zinc-400 max-md:mr-2.5">
       All rights reserved
