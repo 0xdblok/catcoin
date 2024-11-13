@@ -2,7 +2,7 @@ import Image from "next/image";
 import logo from "./logo.png";
 export default function Home() {
   return (
-<section class="flex flex-col items-center px-20 pt-1.5 pb-24 bg-black max-md:px-5">
+<section class="bg-[url('./bg.jpg')]  bg-cover bg-center pt-20 w-screen   flex flex-col items-center  pt-1.5 pb-24 bg-black max-md:px-5">
   <div class="flex flex-col items-center w-full max-w-[1277px] max-md:max-w-full">
     <h1 class="ml-32 text-3xl font-black leading-none text-zinc-100">
      KEYDOG
@@ -25,9 +25,9 @@ export default function Home() {
         <span>Telegram</span>
       </a>
     </nav>
-    <div class="mt-20 w-full max-w-[1080px] max-md:mt-10 max-md:max-w-full">
+    <div class=" bg-[url('./bg.jpg')]  bg-cover bg-center mt-20 w-screen    max-md:mt-10 max-md:max-w-full">
       <div class="flex gap-5 max-md:flex-col">
-        <article class="flex flex-col w-[62%] max-md:ml-0 max-md:w-full">
+        <article class="flex flex-col w-[62%] max-md:ml-0 max-md:w-full ">
           <div class="flex flex-col w-full max-md:mt-4 max-md:max-w-full">
             <div class="flex flex-col pt-3.5 pr-3 max-md:max-w-full">
               <h2 class="self-start ml-5 text-7xl font-thin tracking-tight leading-[79px] text-zinc-100 max-md:max-w-full max-md:text-4xl max-md:leading-[54px]">
@@ -38,10 +38,10 @@ export default function Home() {
               </p>
             </div>
             <div class="flex gap-5 self-start mt-14 text-sm leading-none text-center text-zinc-100 max-md:mt-10">
-              <a href="#" class="px-9 py-5 border border-solid border-zinc-100 rounded-[50px] max-md:px-5">
+              <a href="#" class="px-9 py-5 border-2 border-dashed  border-solid border-yellow-300 rounded-[50px] max-md:px-5">
                 Buy on Raydium
               </a>
-              <a href="#" class="px-9 py-5 border border-solid border-zinc-100 rounded-[50px] max-md:px-5">
+              <a href="#" class="px-9 py-5 border-2 border-dashed border-solid border-yellow-300 rounded-[50px] max-md:px-5">
                 Buy on Jupiter
               </a>
             </div>
@@ -55,17 +55,17 @@ export default function Home() {
         </aside>
       </div>
     </div>
-    <h2 class="mt-16 text-5xl font-thin tracking-tighter leading-none text-center text-white max-md:mt-10">
+    <h2 class="mt-16 text-5xl  tracking-tighter leading-none text-center text-white max-md:mt-10">
       TOKENOMICS
     </h2>
     <div class="flex flex-wrap gap-5 justify-between mt-14 max-w-full w-[1012px] max-md:mt-10">
       <div class="flex gap-1.5 self-start text-base">
-        <span class="grow font-thin text-center text-yellow-300">(0%)</span>
-        <span class="font-light text-zinc-400">Taxes</span>
+        <span class="grow font-thin text-center font-bold text-yellow-300">(0%)</span>
+        <span class="font-light text-zinc-200">Taxes</span>
       </div>
       <div class="flex flex-wrap gap-10 font-thin text-center max-md:max-w-full">
-        <span class="self-start text-base text-yellow-300">LP Burned</span>
-        <p class="text-3xl leading-7 uppercase text-zinc-400">
+        <span class="self-start text-base font-bold text-yellow-300">LP Burned</span>
+        <p class="text-3xl leading-7 uppercase text-zinc-200">
           1,000,000,000 <br /> SUPPLY
         </p>
       </div>
