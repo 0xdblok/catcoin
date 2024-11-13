@@ -25,10 +25,10 @@ export default function Home() {
         <span>Telegram</span>
       </a>
     </nav>
-    <div class=" bg-[url('./bg.jpg')]  bg-cover bg-center mt-20 w-screen    max-md:mt-10 max-md:max-w-full">
+    <div class=" bg-[url('./bg.jpg')] px-20  bg-cover bg-center mt-20 w-screen    max-md:mt-10 max-md:max-w-full">
       <div class="flex gap-5 max-md:flex-col">
         <article class="flex flex-col w-[62%] max-md:ml-0 max-md:w-full ">
-          <div class="flex flex-col w-full max-md:mt-4 max-md:max-w-full">
+          <div class="flex flex-col w-full max-md:mt-4 max-md:max-w-full ml-12">
             <div class="flex flex-col pt-3.5 pr-3 max-md:max-w-full">
               <h2 class="self-start ml-5 text-7xl font-thin tracking-tight leading-[79px] text-zinc-100 max-md:max-w-full max-md:text-4xl max-md:leading-[54px]">
                 Keyboard <br /> CatCoin
@@ -51,7 +51,7 @@ export default function Home() {
           <div className=" ">
           <Image
 
-          className="rounded-full border-2 flex flex-col "
+          className="flex flex-col "
           width={400}
           height={400} 
           loading="lazy" src={logo} /></div>
