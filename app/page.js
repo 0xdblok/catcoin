@@ -34,7 +34,7 @@ export default function Home() {
                 Keyboard <br /> CatCoin
               </h2>
               <p class="z-10 mt-7 mb-0 text-base font-light leading-6 text-zinc-400 max-md:mb-2.5 max-md:max-w-full">
-                Trump had proposed the creation of a government efficiency commission as part <br /> of a slate of new economic plans that he unveiled in early September. At the time, <br /> he said had agreed to lead it if he were to secure a return to the White House.
+              KEYDOG - your musical mastermind on base chain 🎹 not just any weenie, but a fedora-wearing dachshund that turned defi into his personal concert hall. catch him dropping the coldest piano beats while other dogs still learning how to sit 
               </p>
             </div>
             <div class="flex gap-5 self-start mt-14 text-sm leading-none text-center text-zinc-100 max-md:mt-10">
@@ -63,11 +63,11 @@ export default function Home() {
     </h2>
     <div class="flex flex-wrap gap-5 justify-between mt-14 max-w-full w-[1012px] max-md:mt-10">
       <div class="flex gap-1.5 self-start text-base">
-        <span class="grow font-thin text-center font-bold text-yellow-300">(0%)</span>
+        <span class="grow font-thin text-center font-bold text-blue-700">(0%)</span>
         <span class="font-light text-zinc-200">Taxes</span>
       </div>
       <div class="flex flex-wrap gap-10 font-thin text-center max-md:max-w-full">
-        <span class="self-start text-base font-bold text-yellow-300">LP Burned</span>
+        <span class="self-start text-base font-bold text-blue-700">LP Burned</span>
         <p class="text-3xl leading-7 uppercase text-zinc-200">
           1,000,000,000 <br /> SUPPLY
         </p>
