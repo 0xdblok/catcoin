@@ -64,7 +64,7 @@ export default function Home() {
     <div class="flex flex-wrap gap-5 justify-between mt-14 max-w-full w-[1012px] max-md:mt-10">
       <div class="flex gap-1.5 self-start text-base">
         <span class="grow font-thin text-center font-bold text-blue-700">(0%)</span>
-        <span class="font-light text-zinc-200">Taxes</span>
+        <span class="font-light font-bold text-zinc-200">Taxes</span>
       </div>
       <div class="flex flex-wrap gap-10 font-thin text-center max-md:max-w-full">
         <span class="self-start text-base font-bold text-blue-700">LP Burned</span>
