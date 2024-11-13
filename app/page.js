@@ -25,23 +25,23 @@ export default function Home() {
         <span>Telegram</span>
       </a>
     </nav>
-    <div class=" bg-[url('./bg.jpg')] px-20  bg-cover bg-center mt-20 w-screen    max-md:mt-10 max-md:max-w-full">
+    <div class=" bg-[url('./bg.jpg')] px-10  bg-cover bg-center mt-20 w-full    max-md:mt-10 max-md:max-w-full">
       <div class="flex gap-5 max-md:flex-col">
         <article class="flex flex-col w-[62%] max-md:ml-0 max-md:w-full ">
           <div class="flex flex-col w-full max-md:mt-4 max-md:max-w-full ml-12">
             <div class="flex flex-col pt-3.5 pr-3 max-md:max-w-full">
-              <h2 class="self-start ml-5 text-7xl font-thin tracking-tight leading-[79px] text-zinc-100 max-md:max-w-full max-md:text-4xl max-md:leading-[54px]">
+              <h2 class="text-center mr-16 ml-5 text-7xl font-thin tracking-tight leading-[79px] text-zinc-100 max-md:max-w-full max-md:text-4xl max-md:leading-[54px]">
                 Keyboard <br /> DogCoin
               </h2>
-              <p class="z-10 mt-7 mb-0 text-base font-light leading-6 text-zinc-400 max-md:mb-2.5 max-md:max-w-full">
+              <p class="mr-12 z-10 mt-7 mb-0 text-base font-light leading-6 text-zinc-400 max-md:mb-2.5 max-md:max-w-full">
               KEYDOG - your musical mastermind on base chain 🎹 not just any weenie, but a fedora-wearing dachshund that turned defi into his personal concert hall. catch him dropping the coldest piano beats while other dogs still learning how to sit 
               </p>
             </div>
-            <div class="flex gap-5 self-start mt-14 text-sm leading-none text-center text-zinc-100 max-md:mt-10">
-              <a href="#" class="px-9 py-5 border-2 border-dashed  border-solid border-yellow-300 rounded-[50px] max-md:px-5">
+            <div class="flex mr-12 gap-5 mt-14 justify-center text-sm leading-none text-center text-zinc-100 max-md:mt-10">
+              <a href="#" class="px-9 py-5 border-2  border-solid border-blue-700 rounded-[50px] max-md:px-5">
                 Buy on Raydium
               </a>
-              <a href="#" class="px-9 py-5 border-2 border-dashed border-solid border-yellow-300 rounded-[50px] max-md:px-5">
+              <a href="#" class="px-9 py-5 border-2  border-solid border-blue-700 rounded-[50px] max-md:px-5 ">
                 Buy on Jupiter
               </a>
             </div>
