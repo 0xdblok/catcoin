@@ -18,7 +18,7 @@ export default function Home() {
       </a>
       <a href="#" class="flex gap-2 px-2.5 py-3 rounded-[50px]">
         <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/9f8074d742a8df656fc0feed5de958b79aa90f63afd9a8709bdc397fa7975674?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-[1.07] w-[15px]" />
-        <span>Solscan</span>
+        <span>Basescan</span>
       </a>
       <a href="#" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
         <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/6b567a9ed18f3ace8d91db0db388b5db67d64e3bc3c81773835f40e850e79a5b?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-[1.07] w-[15px]" />
