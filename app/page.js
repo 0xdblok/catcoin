@@ -5,7 +5,7 @@ export default function Home() {
 <section class="bg-[url('./bg.jpg')]  bg-cover bg-center pt-20 w-screen   flex flex-col items-center  pt-1.5 pb-24 bg-black max-md:px-5">
   <div class="flex flex-col items-center w-full max-w-[1277px] max-md:max-w-full">
     <h1 class="ml-32 text-3xl font-black leading-none text-zinc-100">
-     KEYDOG
+     KEYBOARDDOG
     </h1>
     <nav class="flex gap-5 items-start mt-5 max-w-full text-sm leading-none text-center whitespace-nowrap text-zinc-100 w-[458px]">
       <a href="#" class="flex gap-2 self-stretch px-2.5 py-3 rounded-[50px]">
@@ -17,7 +17,7 @@ export default function Home() {
         <span>Twitter</span>
       </a>
       <a href="#" class="flex gap-2 px-2.5 py-3 rounded-[50px]">
-        <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/9f8074d742a8df656fc0feed5de958b79aa90f63afd9a8709bdc397fa7975674?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-[1.07] w-[15px]" />
+        <img loading="lazy" src="https://basescan.org/assets/base/images/svg/logos/logo-light.svg?v=24.11.1.0" alt="" class="object-contain shrink-0 self-start   w-[35px] pt-1" />
         <span>Basescan</span>
       </a>
       <a href="#" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
@@ -31,7 +31,7 @@ export default function Home() {
           <div class="flex flex-col w-full max-md:mt-4 max-md:max-w-full ml-12">
             <div class="flex flex-col pt-3.5 pr-3 max-md:max-w-full">
               <h2 class="self-start ml-5 text-7xl font-thin tracking-tight leading-[79px] text-zinc-100 max-md:max-w-full max-md:text-4xl max-md:leading-[54px]">
-                Keyboard <br /> CatCoin
+                Keyboard <br /> DogCoin
               </h2>
               <p class="z-10 mt-7 mb-0 text-base font-light leading-6 text-zinc-400 max-md:mb-2.5 max-md:max-w-full">
               KEYDOG - your musical mastermind on base chain 🎹 not just any weenie, but a fedora-wearing dachshund that turned defi into his personal concert hall. catch him dropping the coldest piano beats while other dogs still learning how to sit 
