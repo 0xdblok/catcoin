@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "./logo.jpg";
+import logo from "./logo.png";
 export default function Home() {
   return (
 <section class="bg-[url('./bg.jpg')]  bg-cover bg-center pt-20 w-screen   flex flex-col items-center  pt-1.5 pb-24 bg-black max-md:px-5">
@@ -52,8 +52,8 @@ export default function Home() {
           <Image
 
           className="flex flex-col "
-          width={400}
-          height={400} 
+          width={600}
+          height={600} 
           loading="lazy" src={logo} /></div>
     
       </div>
