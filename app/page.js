@@ -13,11 +13,11 @@ export default function Home() {
         <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/88e8c12834b4594c5b954d46b79ad098378523f6ad46f96a3987a2b59aebd531?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-square w-[15px]" />
         <span>Twitter</span>
       </a>
-      <a href="#" class="flex gap-2 px-2.5 py-3 rounded-[50px]">
+      <a href="https://basescan.org/" class="flex gap-2 px-2.5 py-3 rounded-[50px]">
         <img loading="lazy" src="https://basescan.org/assets/base/images/svg/logos/logo-light.svg?v=24.11.1.0" alt="" class="object-contain shrink-0 self-start   w-[35px] pt-1" />
         <span>Basescan</span>
       </a>
-      <a href="#" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
+      <a href="https://t.me/keyboarddogchat" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
         <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/6b567a9ed18f3ace8d91db0db388b5db67d64e3bc3c81773835f40e850e79a5b?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-[1.07] w-[15px]" />
         <span>Telegram</span>
       </a>
