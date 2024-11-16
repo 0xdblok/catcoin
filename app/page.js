@@ -7,11 +7,8 @@ export default function Home() {
     <h1 class="ml-32 text-3xl font-black leading-none text-zinc-100">
      KEYBOARDDOG
     </h1>
-    <nav class="flex gap-5 items-start mt-5 max-w-full text-sm leading-none text-center whitespace-nowrap text-zinc-100 w-[458px]">
-      <a href="#" class="flex gap-2 self-stretch px-2.5 py-3 rounded-[50px]">
-        <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/8af548b6107c2e568b45f7e17ab158c76f5334cc2c6d848a9759ef57c3edc1e4?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start w-3.5 aspect-[0.82]" />
-        <span>DEXTools</span>
-      </a>
+    <nav class="flex gap-5 items-center justify-center mt-5 max-w-full text-sm leading-none text-center whitespace-nowrap text-zinc-100 w-[458px]">
+   
       <a href="https://x.com/keyboardcatcoin" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
         <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/88e8c12834b4594c5b954d46b79ad098378523f6ad46f96a3987a2b59aebd531?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-square w-[15px]" />
         <span>Twitter</span>
@@ -39,10 +36,7 @@ export default function Home() {
             </div>
             <div class="flex mr-12 gap-5 mt-14 justify-center text-sm leading-none text-center text-zinc-100 max-md:mt-10">
               <a href="#" class="px-9 py-5 border-2  border-solid border-blue-700 rounded-[50px] max-md:px-5">
-                Buy on Raydium
-              </a>
-              <a href="#" class="px-9 py-5 border-2  border-solid border-blue-700 rounded-[50px] max-md:px-5 ">
-                Buy on Jupiter
+                Buy on Uniswap
               </a>
             </div>
           </div>
@@ -63,7 +57,7 @@ export default function Home() {
     </h2>
     <div class="flex flex-wrap gap-5 justify-between mt-14 max-w-full w-[1012px] max-md:mt-10">
       <div class="flex gap-1.5 self-start text-base">
-        <span class="grow font-thin text-center font-bold text-blue-700">(0%)</span>
+        <span class="grow  text-center font-bold text-blue-700">(0%)</span>
         <span class="font-light font-bold text-zinc-200">Taxes</span>
       </div>
       <div class="flex flex-wrap gap-10 font-thin text-center max-md:max-w-full">
