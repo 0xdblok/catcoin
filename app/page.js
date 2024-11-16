@@ -9,7 +9,7 @@ export default function Home() {
     </h1>
     <nav class="flex gap-5 items-center justify-center mt-5 max-w-full text-sm leading-none text-center whitespace-nowrap text-zinc-100 w-[458px]">
    
-      <a href="https://x.com/keyboardcatcoin" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
+      <a href="https://x.com/keyboarddogcoin/" class="flex gap-1.5 px-2.5 py-3 rounded-[50px]">
         <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/88e8c12834b4594c5b954d46b79ad098378523f6ad46f96a3987a2b59aebd531?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" alt="" class="object-contain shrink-0 self-start aspect-square w-[15px]" />
         <span>Twitter</span>
       </a>
